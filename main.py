@@ -4,8 +4,6 @@ from dotenv import load_dotenv
 
 """
 What I would build next with 2 more hours:
-- Add story categories (adventure, fantasy, bedtime calm-down) and tailor 
-  the storyteller prompt differently for each category
 - Add a voice output feature using text-to-speech so parents can play the 
   story aloud to their child
 - Allow the child to make choices mid-story (interactive branching stories)

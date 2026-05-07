@@ -103,12 +103,5 @@ With 2 more hours, I would:
 
 ---
 
-## Project Structure
-hippocratic-assignment/
-├── main.py          # Terminal version of the app
-├── app.py           # Streamlit web UI version
-├── diagram.png      # System architecture block diagram
-├── .env             # API key (not included in repo)
-├── .gitignore       # Excludes .env from git
-└── README.md        # This file
+
 
