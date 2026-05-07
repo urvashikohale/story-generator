@@ -21,7 +21,7 @@ The system uses four AI agents working together:
 
 - 🎨 **Clean web UI** built with Streamlit — no terminal needed
 - 🏷️ **Smart categorization** — classifies requests into Adventure, Fantasy, Animal, Funny, or Calm and tailors the story prompt accordingly
-- ⚖️ **LLM judge** scores every story on 4 criteria
+- ⚖️ **LLM judge** scores every story on 5 criteria
 - 🔄 **Auto-improvement** — stories scoring below 7 are automatically rewritten
 - 📖 **Before/After toggle** — compare original and updated stories side by side
 - 💬 **User feedback loop** — request changes and refine the story interactively
@@ -46,7 +46,7 @@ The system uses four AI agents working together:
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/urvashikohale/story-generator.git
-cd hippocratic-assignment
+cd story-generator
 ```
 
 ### 2. Install dependencies
